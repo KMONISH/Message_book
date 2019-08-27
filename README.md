@@ -7,7 +7,7 @@ using Python Django
 - Sql database,html,css,style by using bootstap is used in the project.
 - Three Django application are created for running the programme.
 - Can runserver using manage.py and access admin by adding "/admin/" in running link server 
-- The admin user(mstac)and password(123) can be edited.
+
 
  FUNCTION
 - Can add profile pics and add messages by creating the users
